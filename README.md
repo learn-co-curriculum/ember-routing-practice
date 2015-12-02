@@ -32,3 +32,5 @@ Fill our the navbar `<li>`s with a link to the about page and a link to the hell
 * Create a `app/templates/contributors/sophie.hbs` that contains the text: `Sophie is a contributor to this project.` in `<p>` tags. 
 
 
+
+<a href='https://learn.co/lessons/ember-routing-practice' data-visibility='hidden'>View this lesson on Learn.co</a>
