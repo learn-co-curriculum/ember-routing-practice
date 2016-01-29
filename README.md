@@ -33,4 +33,4 @@ Fill our the navbar `<li>`s with a link to the about page and a link to the hell
 
 
 
-<a href='https://learn.co/lessons/ember-routing-practice' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ember-routing-practice' title='Ember Routing Practice'>Ember Routing Practice</a> on Learn.co and start learning to code for free.</p>
